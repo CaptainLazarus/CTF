@@ -13,3 +13,5 @@ soumi
 abs
 quasi-starlord
 hare-krishna-singh
+janist
+patch-1
